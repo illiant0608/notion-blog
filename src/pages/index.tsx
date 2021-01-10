@@ -17,7 +17,7 @@ export default () => (
       />
       <h1>illiant's Blog</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
+        My Blog'{' '}
         <ExtLink
           href="https://github.com/vercel/next.js/issues/9524"
           className="dotted"
